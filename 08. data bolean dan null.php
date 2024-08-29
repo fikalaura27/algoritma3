@@ -8,4 +8,6 @@ print "<p>";
 var_dump($var_boolean2);
 print "<p>";
 var_dump($var_null);
+
+echo "<br><br><br><strong>by: fika laura!";
 ?>
