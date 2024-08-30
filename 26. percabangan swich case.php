@@ -20,3 +20,5 @@ switch($level){
     default:
         echo "Kamu bukan programmer!";
 }
+echo "<hr>";
+echo "<p><strong>by : fika laura";
