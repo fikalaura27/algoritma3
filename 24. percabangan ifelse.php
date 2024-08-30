@@ -18,3 +18,5 @@ if ($umur < 18 ){
 } else {
     echo "<hr>Selamat datang di website kami! umur < 19";
 }
+echo "<hr>";
+echo "<p><strong>by : fika laura";
