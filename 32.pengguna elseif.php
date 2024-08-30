@@ -7,7 +7,7 @@ if ($usia < 13) {
 } elseif ($usia >= 13 && $usia <= 19) {
     echo "Kamu anak muda.";
 } elseif ($usia > 19 && $usia <= 30) {
-    echo "Kamu adalah sudah tumbuh menjadi dewasa.";
+    echo "Kamu sudah tumbuh menjadi dewasa.";
 } else {
     echo "Kamu adalah dewasa.";
 }
