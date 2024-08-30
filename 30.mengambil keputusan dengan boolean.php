@@ -30,3 +30,4 @@ if ($status !== false) {
 } else {
     echo "<hr>Penulisan file gagal.";
 }
+echo "<p><strong>by : fika laura";
