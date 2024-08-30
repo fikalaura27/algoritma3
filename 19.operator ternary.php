@@ -8,10 +8,10 @@ $jawab = $suka ? "iya": "tidak";
 // menampilkan jawaban
 echo $jawab;
 echo "<br>";
-var_dump ($iya);
+var_dump ($jawab);
 echo "<hr>";
 
 echo $suka;
 echo "<br>";
-var_dump ($tidak);
+var_dump ($suka);
 echo "<hr>";
