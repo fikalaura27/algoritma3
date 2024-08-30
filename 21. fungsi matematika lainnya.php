@@ -17,3 +17,5 @@ echo max(2, 3, 1); // Hasil: 3
 echo "<br>";
 echo min(array(2, 3, 1)); // Hasil: 1
 echo "<hr>";
+echo "<hr>";
+echo "<p><strong>by : fika laura";

@@ -11,3 +11,5 @@ $siswa = "rajin";
 if($siswa = "rajin"){
     echo "<hr>jika rajin akan NAIK KELAS!";
 }
+echo "<hr>";
+echo "<p><strong>by : fika laura";

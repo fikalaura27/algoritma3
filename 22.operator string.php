@@ -59,3 +59,5 @@ echo strcasecmp("<hr>hello world!", "HELLO WORLD!"); // Outputs: 0
 // Mengkonversi string menjadi array.
 $text = "Hello";
 print_r(str_split($text, 2))."<hr>"; // Outputs: Array ( [0] => He [1] => ll [2] => o )
+echo "<hr>";
+echo "<p><strong>by : fika laura";
