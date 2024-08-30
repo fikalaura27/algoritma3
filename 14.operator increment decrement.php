@@ -1,6 +1,6 @@
 </php
 
-$score = 10;
+$score = 0;
 
 $score--;
 $score++;
